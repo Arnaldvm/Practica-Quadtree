@@ -1,0 +1,18 @@
+CodeStyle for Arnald Vilella
+
+
+File Names:
+- PascalCase
+- CodeStyle; Point2D;
+
+Variables:
+- snake_case without Hungarian Notation
+- mouse_x; frame_x;
+
+Class Names:
+-PascalCase
+-Point2D; Game;
+
+Method Names:
+-camelCase
+-isZero; setZero;
